@@ -2,6 +2,39 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a web application built with React that allows users to search and view information about different Pokemon. The application utilizes the PokeAPI to fetch data about each Pokemon, including their name, type, abilities, and stats.
+
+**Getting Started**
+
+To use the Pokedex with React, simply visit the deployed website or clone the repository to your local machine and run "npm install" to install the necessary dependencies. Then run "npm start" to start the development server and access the application in your browser.
+
+**Usage**
+
+Once the Pokedex is loaded, users can search for a specific Pokemon by name or browse through the list of Pokemon alphabetically. Clicking on a Pokemon's name will display its information, including its type, abilities, and stats. The application also includes a filter feature, allowing users to filter Pokemon by their type.
+
+**Contributing**
+
+Contributions to this project are welcome. To contribute, please follow these steps:
+
+- Fork this repository.
+- Create a new branch with your changes: git checkout -b my-feature-branch.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push to the branch: git push origin my-feature-branch.
+- Submit a pull request.
+- Technologies used:
+
+- React
+- PokeAPI
+- CSS
+- HTML
+**License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
